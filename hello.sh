@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "Hello JIM!!"
+echo "Holy crap it's working"
